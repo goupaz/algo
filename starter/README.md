@@ -1,11 +1,10 @@
 ## Prerequisites 
 A strong understanding of programming, including:
-- Elementary data structures (CSC-512) /n
-- Discrete structures (CSC-501) and mathematics (Appendix of required textbook [1]), including probability, are necessary /n
-
+- Elementary data structures (CSC-512) 
+- Discrete structures (CSC-501) and mathematics (Appendix of required textbook [1]), including probability, are necessary 
 ## Required Reading Materials
-[1]. Thomas Cormen, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 3rd ed. MIT Press, 2009. ISBN: 9780262033848 () /n
-[2]. SkienaTheAlgorithmDesignManual.pdf (http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf) /n
+-Thomas Cormen, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 3rd ed. MIT Press, 2009 <br />
+-SkienaTheAlgorithmDesignManual.pdf (http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf) <br />
 
 |Week| Topic | Text Chapter|
 |------|-------|--------|
