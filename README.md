@@ -56,10 +56,10 @@ Contribution
 
   # References
 
-- Golang:
+- Golang: <br />
 https://github.com/0xAX/go-algorithms <br />
 https://github.com/tcnksm/go-algorithms <br />
 https://github.com/arnauddri/algorithms <br />
 https://github.com/TheAlgorithms/Go <br />
 
-- Python3:
+- Python3: <br />
