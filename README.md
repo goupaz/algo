@@ -1,2 +1,5 @@
 # algo
-Algorithms in Go
+
+Algorithms for Starters and Advanced!
+
+
