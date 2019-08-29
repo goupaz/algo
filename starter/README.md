@@ -3,6 +3,7 @@ A strong understanding of programming, including elementary data structures (CSC
 
 ## Required Reading Materials
 [1]. Thomas Cormen, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 3rd ed. MIT Press, 2009. ISBN: 9780262033848 ()
+
 [2]. SkienaTheAlgorithmDesignManual.pdf (http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
 
 |Week| Topic | Text Chapter|
