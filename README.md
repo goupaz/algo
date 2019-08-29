@@ -54,9 +54,12 @@ Contribution
   * Make changes;
   * Send pull request;
 
-  #References
+  # References
 
+- Golang:
 https://github.com/0xAX/go-algorithms <br />
 https://github.com/tcnksm/go-algorithms <br />
 https://github.com/arnauddri/algorithms <br />
 https://github.com/TheAlgorithms/Go <br />
+
+- Python3:
