@@ -1,7 +1,9 @@
 # Algorithms for Starters and Advanced!
 
 Have fun on journey of learning data structures and algorithms!
+
 The Weekly Community Call in this [link](https://drive.google.com/file/d/1wvNjBnJynyJO62Su4OV5-PWOjTgBHtTF/view?usp=sharing)
+
 The repo structure:
 ```
 Main
