@@ -56,7 +56,7 @@ Contribution
 
   #References
 
-https://github.com/0xAX/go-algorithms
-https://github.com/tcnksm/go-algorithms
-https://github.com/arnauddri/algorithms
-https://github.com/TheAlgorithms/Go
+https://github.com/0xAX/go-algorithms <br />
+https://github.com/tcnksm/go-algorithms <br />
+https://github.com/arnauddri/algorithms <br />
+https://github.com/TheAlgorithms/Go <br />
