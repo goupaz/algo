@@ -1,6 +1,6 @@
 # Advanced Algorithms
 
-    It covers advanced methods of algorithmic design, analysis, and implementation. Techniques to be covered include amortization, advanced data structures such as Fibonacci heap and union-find, shortest paths, network flow, linear programming, randomized algorithms, string matching, approximation algorithms, and multithreaded programming. 
+It covers advanced methods of algorithmic design, analysis, and implementation. Techniques to be covered includeamortization, advanced data structures such as Fibonacci heap and union-find, shortest paths, network flow,linear programming, randomized algorithms, string matching, approximation algorithms, and multithreadedprogramming. 
 
 ## Objectives
 This course introduces to the analysis and design of advanced computer algorithms. Upon completion of this:

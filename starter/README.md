@@ -1,6 +1,6 @@
 # Introduction to Algorithms
 
-    This course provides an introduction to mathematical modeling of computational problems and the design and analysis of the algorithms that solve these problems in practice. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming and introduces basic performance measures and analysis techniques for these problems.
+This course provides an introduction to mathematical modeling of computational problems and the design andanalysis of the algorithms that solve these problems in practice. It covers the common algorithms, algorithmicparadigms, and data structures used to solve these problems. The course emphasizes the relationship betweenalgorithms and programming and introduces basic performance measures and analysis techniques for these problems.
 
 # Course Objective 
 This course introduces to the analysis and design of computer algorithms. Upon completion of this course:
