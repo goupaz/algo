@@ -1,7 +1,18 @@
+# Introduction to Algorithms
+
+    This course provides an introduction to mathematical modeling of computational problems and the design and analysis of the algorithms that solve these problems in practice. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming and introduces basic performance measures and analysis techniques for these problems.
+
+# Course Objective 
+This course introduces to the analysis and design of computer algorithms. Upon completion of this course:
+- Analyze the asymptotic performance of algorithms
+- Demonstrate a familiarity with major algorithms and data structures
+- Apply important algorithmic design paradigms and methods of analysis
+- Synthesize efficient algorithms in common engineering design situations
+
 ## Prerequisites 
 A strong understanding of programming, including:
-- Elementary data structures (CSC-512) 
-- Discrete structures (CSC-501) and mathematics (Appendix of required textbook [1]), including probability, are necessary 
+- Elementary data structures
+- Discrete structures and mathematics, including probability, are necessary 
 
 ## Required Reading Materials
 - Thomas Cormen, Charles Leiserson, Ronald Rivest, and Clifford Stein. Introduction to Algorithms. 3rd ed. MIT Press, 2009 <br />
