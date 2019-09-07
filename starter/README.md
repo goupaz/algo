@@ -35,4 +35,12 @@ A strong understanding of programming, including:
 |13|Greedy algorithms	|Ch. 16|
 |14|NP-completeness	|Ch. 34|
 
+# Learning Outcomes
+By the end, should be able to:
+- Understand and develop a variety of techniques for designing algorithms 
+- Design a variety of data structures and algorithms and should be able to use them appropriately to solve problems in scientific computing
+- Understand some fundamental algorithms used in scientific computing and solve computational problems using these algorithms
+- Develop new or re-use already existing efficient algorithms to solve problems
+- Comprehend algorithmic complexity and be able to make educated choices when problem solving
+
 
