@@ -26,19 +26,19 @@ A strong understanding of programming, including:
 
 ## Plan
 
-| Week | Topic                                         | Text Chapter |
-| ---- | --------------------------------------------- | ------------ |
-| 1    | Amortized analysis                            | Ch.17        |
-| 2    | Fibonacci heaps                               | Ch. 19       |
-| 3    | Data structures for disjoint sets             | Ch. 21       |
-| 4    | Elementary graph algorithms                   | Ch. 22       |
-| 5    | Single-source shortest paths                  | Ch. 24       |
-| 6    | Single-source shortest paths negative weights | Ch. 24       |
-| 7    | All-pairs shortest paths                      | Ch. 25       |
-| 8    | Maximum flow I Ch. 26                         |
-| 9    | Maximum flow II Ch. 26                        |
-| 10   | Approximation algorithms                      | Ch. 35       |
-| 11   | String matching                               | Ch. 32       |
+| Week | Topic                                         | Text Chapter | Slides| Video| Exercises|
+| ---- | --------------------------------------------- | ------------ |-------|------|----------|
+| 1    | Amortized analysis                            | Ch. 17       |[Slides](/slides/1.pdf)|[Meetus01](youtube.com)| [Solutions]()|
+| 2    | Fibonacci heaps                               | Ch. 19       ||||
+| 3    | Data structures for disjoint sets             | Ch. 21       ||||
+| 4    | Elementary graph algorithms                   | Ch. 22       ||||
+| 5    | Single-source shortest paths                  | Ch. 24       ||||
+| 6    | Single-source shortest paths negative weights | Ch. 24       ||||
+| 7    | All-pairs shortest paths                      | Ch. 25       ||||
+| 8    | Maximum flow I Ch. 26                         | Ch. 26       ||||
+| 9    | Maximum flow II Ch. 26                        | Ch. 26       ||||
+| 10   | Approximation algorithms                      | Ch. 35       ||||
+| 11   | String matching                               | Ch. 32       ||||
 
 ## Learning Outcomes
 
