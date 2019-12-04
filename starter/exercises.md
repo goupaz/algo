@@ -104,3 +104,23 @@ Exercises:
 13.3-1~13.3-3
 
 ```
+
+11. Reading Assignment:
+```
+15.3 15.4
+
+Exercises:
+
+15.4-1, 15.4-3, 15.4-5, 15-1.
+
+```
+
+12. Reading Assignment:
+```
+Section 16.2, 23.1, 23.2
+
+Exercises:
+
+16.2-5, 16-1.a, 23.1-1, 23.2-8
+
+```
