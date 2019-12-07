@@ -123,4 +123,9 @@ Exercises:
 
 16.2-5, 16-1.a, 23.1-1, 23.2-8
 
+13. Reading Assignment:
+Selected parts of Chapter 34
+
+Exercises:
+34.2-6,  34.2-7, 34.3-2
 ```
